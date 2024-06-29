@@ -1,21 +1,14 @@
-MIT License
 
-Copyright (c) 2024 SalemDarwiesh
+### How to Use the README.md:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. **Description:** Explain what your repository does and why someone might find it useful.
+   
+2. **Usage:** Provide clear, step-by-step instructions on how to use your VBA script in Excel.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. **Example:** Include the `SortAndFilterData` subroutine code as an example of what the script does.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. **Contributing:** Encourage others to contribute to your project if they have improvements or suggestions.
+
+5. **License:** Specify the license under which your code is distributed. Adjust the license type (`MIT`, `GNU GPL`, etc.) as per your preference and needs.
+
+Make sure to replace placeholders like `"SHEETNAME"` with the actual worksheet name and adjust any other specific details according to your Excel workbook setup. This README structure will help others understand your project and quickly get started with using your VBA solution for data sorting and filtering in Excel.
