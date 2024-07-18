@@ -1,4 +1,4 @@
-# Excel Data Sorting and Filtering with VBA
+# Excel Data Custome Sorting and Filtering with VBA
 
 Optimize data management in Excel using VBA with this script that sorts and filters data based on specified criteria.
 
